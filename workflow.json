@@ -1,0 +1,1 @@
+{"name":"Salón de Belleza - Sistema Completo","nodes":[{"parameters":{"updates":["messages"],"options":{}},"id":"f7b8cf85-ddc1-4444-bd62-5b2dc1a405e1","name":"WhatsApp Trigger","type":"n8n-nodes-base.whatsAppTrigger","typeVersion":1,"position":[0,0],"webhookId":"069e9e90-d4d3-4743-a564-a75c5af97388"}]}
